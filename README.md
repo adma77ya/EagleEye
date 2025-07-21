@@ -1,38 +1,42 @@
-# 🦅 Eagle Eye
+\# EagleEye
 
-**Eagle Eye** is a computer vision project built using neural networks to detect human or humanoid figures from drone-captured images. This was one of our first explorations into deep learning, focused on aerial surveillance and search-and-rescue style image processing.
 
----
 
-## 🚀 Demo App
+EagleEye is a computer vision project built using neural networks to detect human or humanoid figures from drone-captured images.  
 
-Try out the live demo here:  
-👉 [Streamlit App](https://eagle--eye.streamlit.app/)
+This was one of our first explorations into deep learning, focused on aerial surveillance and search-and-rescue style image processing.
 
-[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://eagle--eye.streamlit.app/)
+
 
 ---
 
-## 💻 Run in GitHub Codespaces
 
-Start experimenting right away using GitHub Codespaces:
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/adma77ya/EagleEye?quickstart=1)
+\## Features
 
----
+\- Detects human and humanoid figures in aerial images.
 
-## 🧠 Model Details
+\- Uses deep learning models trained on aerial datasets.
 
-- **Type**: Convolutional Neural Network (CNN)
-- **Trained On**: Drone aerial imagery dataset
-- **Task**: Detect and localize humans/humanoids
-- **Frameworks Used**: PyTorch / TensorFlow (specify what you used)
+\- Designed for search \& rescue and surveillance applications.
+
+
 
 ---
 
-## 🛠️ How to Run Locally
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/adma77ya/EagleEye.git
-   cd EagleEye
+
+\## Setup
+
+
+
+Clone the repository:
+
+```bash
+
+git clone https://github.com/adma77ya/EagleEye.git
+
+cd EagleEye
+
+
+
